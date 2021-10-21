@@ -1,0 +1,6 @@
+C:\Users\Юрий Радыгин\source\repos\SquareFigure\bin\Debug\SquareFigure.dll
+C:\Users\Юрий Радыгин\source\repos\SquareFigure\bin\Debug\SquareFigure.pdb
+C:\Users\Юрий Радыгин\source\repos\SquareFigure\obj\Debug\SquareFigure.csproj.AssemblyReference.cache
+C:\Users\Юрий Радыгин\source\repos\SquareFigure\obj\Debug\SquareFigure.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Радыгин\source\repos\SquareFigure\obj\Debug\SquareFigure.dll
+C:\Users\Юрий Радыгин\source\repos\SquareFigure\obj\Debug\SquareFigure.pdb
