@@ -1,0 +1,24 @@
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\bin\Debug\SquareFigure_testGUI.exe.config
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\bin\Debug\SquareFigure_testGUI.exe
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\bin\Debug\SquareFigure_testGUI.pdb
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.csproj.AssemblyReference.cache
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.Form1.resources
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.Properties.Resources.resources
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.csproj.GenerateResource.cache
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.exe
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.pdb
+C:\Users\Юрий Радыгин\source\repos\SquareFigure_testGUI\bin\Debug\SquareFigure.dll
+D:\C#\SquareFigure_testGUI\bin\Debug\SquareFigure_testGUI.exe.config
+D:\C#\SquareFigure_testGUI\bin\Debug\SquareFigure_testGUI.exe
+D:\C#\SquareFigure_testGUI\bin\Debug\SquareFigure_testGUI.pdb
+D:\C#\SquareFigure_testGUI\bin\Debug\SquareFigure.dll
+D:\C#\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.csproj.AssemblyReference.cache
+D:\C#\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.csproj.SuggestedBindingRedirects.cache
+D:\C#\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.Form1.resources
+D:\C#\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.Properties.Resources.resources
+D:\C#\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.csproj.GenerateResource.cache
+D:\C#\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.csproj.CoreCompileInputs.cache
+D:\C#\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.exe
+D:\C#\SquareFigure_testGUI\obj\Debug\SquareFigure_testGUI.pdb
